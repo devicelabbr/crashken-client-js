@@ -1,0 +1,24 @@
+{
+  "name": "crashken-client",
+  "version": "0.0.1",
+  "description": "Crashken Client library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devicelabbr/crashken-client-js.git"
+  },
+  "keywords": [
+    "Crashken",
+    "Mobile",
+    "Testing"
+  ],
+  "author": "Irineu Antunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devicelabbr/crashken-client-js/issues"
+  },
+  "homepage": "https://github.com/devicelabbr/crashken-client-js#readme"
+}
